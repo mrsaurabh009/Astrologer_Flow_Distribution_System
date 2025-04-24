@@ -7,14 +7,9 @@
     "test": "tests"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
-
-"scripts": {
-  "start": "node index.js"
-}
-
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
