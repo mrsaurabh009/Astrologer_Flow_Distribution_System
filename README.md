@@ -25,7 +25,8 @@ A scalable, secure, and intelligent backend system built using **Node.js**, **Ex
 
 ## 🧠 Overview
 
-This system connects thousands of users per day with astrologers based on availability, specialization, and weighted priority. Designed to simulate real-time user-to-astrologer allocation under scalable load conditions (2000–3000 users/day).
+This assignment presents a robust and scalable backend system designed to manage and optimize the flow distribution of users to astrologers using Node.js, Express, and MongoDB. The primary objective of the system is to ensure fair and efficient allocation of 2000–3000 daily user requests across a pool of 500+ astrologers, while also giving preferential flow to top-rated astrologers when necessary. The architecture follows RESTful API principles and includes features like user input validation using express-validator, dynamic flow control through a custom distribution algorithm, and unit testing with Jest to ensure system reliability. MongoDB serves as the database to store astrologer profiles and assignment records, with the entire application prepared for cloud deployment using Render and integrated documentation via Postman. The system is designed to handle real-time decision-making, scale efficiently under load, and lay the groundwork for potential integration with advanced features like AI-driven prioritization and real-time availability management.
+
 
 ---
 
