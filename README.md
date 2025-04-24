@@ -2,21 +2,24 @@
 
 A scalable, secure, and intelligent backend system built using **Node.js**, **Express**, and **MongoDB** to manage astrologer assignments in a fair and optimized way. This system ensures balanced flow distribution of user connections across 500+ astrologers while offering a boost mechanism for top performers.
 
+# API Documentation
+[Click Here](#https://documenter.getpostman.com/view/44352317/2sB2ixjDtT)
+
 ---
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
+- [Overview]
+- [Tech Stack]
 - [Features](#features)
-- [Flow Distribution Algorithm](#flow-distribution-algorithm)
-- [API Endpoints](#api-endpoints)
-- [Database Models](#database-models)
-- [Validation & Security](#validation--security)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [How to Run Locally](#how-to-run-locally)
-- [Future Enhancements](#future-enhancements)
+- [Flow Distribution Algorithm]
+- [API Endpoints]
+- [Database Models]
+- [Validation & Security]
+- [Testing]
+- [Deployment]
+- [How to Run Locally]
+
 
 ---
 
