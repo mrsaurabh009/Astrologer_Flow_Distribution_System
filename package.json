@@ -9,6 +9,12 @@
   "scripts": {
     "test": "jest"
   },
+
+"scripts": {
+  "start": "node index.js"
+}
+
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
